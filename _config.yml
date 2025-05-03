@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Rayan KHALIL / Academic Portfolio"
 title_separator          : "-"
-name                     : &name "Rayan KHALIL "
-description              : &description "I'm Rayan, a computer engineering student who likes coding and learning new things"
+name                     : &name "Rayan "
+description              : &description "I'm Rayan, a computer engineering student"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Rayan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I'm Rayan, a computer engineering studentr"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "KMUTT"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rayankhalil24@gmail.com" 
 
   # Academic websites
   academia         : # URL
