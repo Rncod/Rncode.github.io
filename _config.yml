@@ -1,49 +1,35 @@
 # Welcome to Jekyll!
-
-remote_theme: academicpages/academicpages.github.io  # ✅ important !
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# server process.
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Rayan KHALIL / Academic Portfolio"
+site_theme               : "default"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Rayan KHALIL"
-description              : &description "Computer Engineering Exchange Student at KMUTT"
-url                      : "https://rncode.github.io"
-baseurl                  : ""  # <-- important : reste vide si c'est ton site principal
-repository               : "Rncode/Rncode.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "academicpages/academicpages.github.io"
 
-# Plugins
-plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-redirect-from
-  - jemoji
-
-# Whitelist (facultatif mais recommandé)
-whitelist:
-  - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-redirect-from
-  - jemoji
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "picture.png"
-  name             : "Rayan KHALIL"
-  pronouns         :  "He/his"  
-  bio              : "Computer Engineering Exchange Student at KMUTT, based in Bangkok, Thailand. I enjoy coding, solving problems, and working on real-world tech projects."
-  location         : "Bangkok, Thailand"
-  employer         : "KMUTT"
+  avatar           : "profile.png"
+  name             : "Your Sidebar Name"
+  pronouns         : # example: "she/her"  
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
   uri              : # URL
-  email            : "rayankhalil24@gmail.com"
+  email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
