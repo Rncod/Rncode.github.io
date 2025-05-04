@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "picture.jpg"
+  avatar           : "images/photo.jpg"
   name             : "Rayan KHALIL"
   pronouns         : # example: "she/her"  
   bio              : "Computer Engeenering Student"
