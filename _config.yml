@@ -22,7 +22,7 @@ repository               : "Rncode/Rncode.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "picture.png"
   name             : "Rayan KHALIL"
   pronouns         :  "He/his"  
   bio              : "Computer Engineering Exchange Student at KMUTT, based in Bangkok, Thailand. I enjoy coding, solving problems, and working on real-world tech projects."
